@@ -11,8 +11,10 @@ You will need:
 
 Download `Simple.Vector.Add-Sub.Calculator.py` from the Releases tab. Run/open to start the script.
 
-There are multiple variations of this program, the following are available:
-- `Simple.Vector.Add-Sub.Calculator.2-V.py`
+There are multiple variations of this program:
+- `Simple.Vector.Add-Sub.Calculator.2-V.py` | 2 Vectors
+- `Simple.Vector.Add-Sub.Calculator.3-V.py` | 3 Vectors (in development)
+- `Simple.Vector.Add-Sub.Calculator.4-V.py` | 4 Vectors (maybe)
 
 File should work with most online IDEs.
 
