@@ -12,7 +12,7 @@ You will need:
 Download `Simple.Vector.Add-Sub.Calculator.py` from the Releases tab. Run/open to start the script.
 
 There are multiple variations of this program, the following are available:
-- `Simple.Vector.Add-Sub.Calculator.py`
+- `Simple.Vector.Add-Sub.Calculator.2-V.py`
 
 File should work with most online IDEs.
 
