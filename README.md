@@ -9,7 +9,7 @@ The calculator can work offline if downloaded, no internet access is required.
 You will need:
 - Python (works with 3.9.2)
 
-Download `Simple.Vector.Add-Sub.Calculator.py` from the Releases tab. Run/open to start the script.
+Download the desired version from the Releases tab. Run/open to start the script.
 
 There are multiple variations of this program:
 - `Simple.Vector.Add-Sub.Calculator.2-V.py` | 2 Vectors
