@@ -13,8 +13,7 @@ Download `Simple.Vector.Add-Sub.Calculator.py` from the Releases tab. Run/open t
 
 There are multiple variations of this program:
 - `Simple.Vector.Add-Sub.Calculator.2-V.py` | 2 Vectors
-- `Simple.Vector.Add-Sub.Calculator.3-V.py` | 3 Vectors (in development)
-- `Simple.Vector.Add-Sub.Calculator.4-V.py` | 4 Vectors (maybe)
+- `Simple.Vector.Add-Sub.Calculator.3-V.py` | 3 Vectors
 
 File should work with most online IDEs.
 
